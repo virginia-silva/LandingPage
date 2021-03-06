@@ -1,0 +1,13 @@
+{
+  "title": "Save your data store here",
+  "text": "Data Warehouse is a data storage area that has been tested for security, so you can store your data here safely but not be afraid of being stolen by others.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn More",
+      "color": "#fff"
+    }
+  ]
+}

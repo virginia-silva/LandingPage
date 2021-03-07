@@ -1,2 +1,2 @@
-# LaningPage
+# LandingPage
 LandingPage

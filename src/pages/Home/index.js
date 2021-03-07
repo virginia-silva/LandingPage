@@ -44,7 +44,7 @@ const Home = () => {
         title={MissionContent.title}
         content={MissionContent.text}
         icon="product-launch.svg"
-        id="mission"
+        id="Help"
       />
 
       <ContentBlock
@@ -52,7 +52,7 @@ const Home = () => {
         title={ProductContent.title}
         content={ProductContent.text}
         icon="waving.svg"
-        id="product"
+        id="features"
       />
       <ContactFrom
         title={ContactContent.title}
